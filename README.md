@@ -24,7 +24,7 @@
 Fortsett i init()`-metoden`med å gi celler liv, ved å gi dem verdien `1`.
 
 <details>
-  <summary>eksempel med en *Gosper glider gun*</summary>
+  <summary>eksempel med en <i>Gosper glider gun<i></summary>
     
   ```javascript
   [
