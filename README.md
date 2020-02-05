@@ -4,6 +4,8 @@
 
 ## Lets go!
 
+- Åpne filen `index.html` i en nettleser.
+
 - Aller først må vi lage rutenettet vårt. Start i `init()`-metoden med å fylle `cells` som en to-dimensjonell array av verdien `0`.
 
 <details>
