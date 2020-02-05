@@ -11,23 +11,25 @@ canvas.fillStyle = 'cadetblue';
 
 init();
 
-/**
- * Initialize game
- */
 function init() {
 
+  // initialize game
+
+  update();
 }
 
-/**
- * Check which cells are alive.
- */
+function countNeighbours(x, y) {
+
+  // count living neighbours
+
+}
+
 function update() {
 
-}
+  // check which cells should be alive in next generation.
 
-/**
- * Draw cells on canvas
- */
+  draw();
+}
 
 function draw() {
   canvas.clearRect(0, 0, xCount * cellSize, yCount * cellSize);
@@ -45,5 +47,5 @@ function draw() {
   setTimeout(function () {
     update();
   }, 50);
-  //window.requestAnimationFrame(update); // Too fast!
+  //window.requestAnimationFrame(update); // Fast for small grids!
 }
