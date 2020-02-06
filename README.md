@@ -122,3 +122,4 @@ Husk å ikke oppdatere `cells` før du har gått gjennom alle cellene.
 - [Chrome extension](https://github.com/yuanchuan/game-of-life) som lar deg spille Game of Life på Githubs contribution board
 - [YouTube-video](https://www.youtube.com/watch?v=68nEX5CEmZE) av en implementasjon som printer ut primtall fra 2 - 37
 - [YouTube-video](https://www.youtube.com/watch?v=vGWGeund3eA) som viser Game of Life som logiske porter
+- [YouTube-video](https://www.youtube.com/watch?v=My8AsV7bA94) som viser en Turing maskin laget i Game of Life 🤯
