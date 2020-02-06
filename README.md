@@ -110,7 +110,7 @@ Husk å ikke oppdatere `cells` før du har gått gjennom alle cellene.
 - Tiden det tar mellom hvert steg er definert i slutten av `draw()`-metoden.
 
 ## Voilá!
-#### Nå har du en kjørende versjon av *Conway's Game of Life! Her er noen eksempler på hvordan du kan leke deg videre:
+#### Nå har du en kjørende versjon av *Conway's Game of Life!* Her er noen eksempler på hvordan du kan leke deg videre:
 
 - Legg til flere elementer i startkonfigurasjonen.
 - Øk størrelsen på brettet. (Om du gjør brettet tilstrekkelig stort må du begynne å tenke litt smartere på hvordan hver celle representeres...)
